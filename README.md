@@ -1,17 +1,8 @@
-# Branding
+# Branding Guidelines
+This document defines how to correctly use and represent the logo to maintain a consistent, recognizable, and professional brand identity.
 
-
-Logo Color hex codes -  #AD04FF + #DE06FF
-
-# Don't
-
-- Alter the logo in any way.
-- Put at an angle or rearrange elements
-- Squeeze or stretch
-- Use older versions of the logo
-
-
-## Recommendation
-
-- Animate the Logo
-- Dont place the logo on a complicated background
+## Logo Colors:
+The brand identity relies on two core colors. Always use these exact hex codes:
+- Primary Purple - `#AD04FF`
+- Accent Pink - `#DE06FF`
+> These are the only approved colors for the logo. Do not alter, replace, or use gradients outside of the official design system.
